@@ -16,7 +16,8 @@
   <a href="https://linkedin.com/in/farijultanjim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white" alt="Portfolio">
+  <a href="https://www.farijul.tech" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-%231E90FF.svg?logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://wa.me/8801611899118" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp">
