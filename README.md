@@ -73,11 +73,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farijultanjim&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farijultanjim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=farijultanjim&icon=0&color=7" alt="Visitor Count" />
-</p>
